@@ -1,0 +1,3 @@
+[submodule "data/midi-classical-music"]
+	path = data/midi-classical-music
+	url = https://huggingface.co/datasets/drengskapur/midi-classical-music
